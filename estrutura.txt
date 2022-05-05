@@ -1,0 +1,25 @@
+        - wger001
+            - domain
+                - model
+                    - wger001
+                    - wofi009Estrutura
+            - data
+                - repository
+                    - buscarDados
+                    - alterarDados
+                    - incluirDados
+                    - buscarEstrutura
+                    - deletarDados
+            - domain
+                - usecase
+                    - buscarDados
+                    - alterarDados
+                    - incluirDados
+                    - buscarEstrutura
+                    - deletarDados
+            - di
+                di
+            - controller
+                - wger001
+            - view
+                - wger001
